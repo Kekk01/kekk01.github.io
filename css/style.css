@@ -1,0 +1,54 @@
+.vertical-center {
+    min-height: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url(/img/sfondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titolo {
+    font-size: 140px;
+    color: rgb(2, 0, 105);
+    padding: 20px;
+    font-family: "Faster One";
+}
+
+.pulsanti {
+    font-size: 40px;
+    background-color: #36393E;
+    color: white;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+}
+
+.informazioni {
+    font-family: "Patua One";
+}
+
+.sottotitoli {
+    font-family: "Passion One";
+}
+
+.spazio {
+    margin-top: 30px;
+}
+
+.titan {
+    width: 500px;
+    height: auto;
+}
+
+.i7 {
+    width: 250px;
+    height: auto;
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
+
+.testo {
+    font-family: "Patua One";
+}
